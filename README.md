@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! 𝐈'𝐦 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐁𝐡𝐚𝐭𝐢𝐚, Dedicated and results-driven Software Engineer with a passion for leveraging cutting-edge technologies to drive innovation and solve complex challenges. Currently pursuing a B.Tech in IT from Inderprastha Engineering College.
 
 <!--

@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning with help from [docs.github.com](https://docs.github.com/en)
 - 🔍 I don't know how to do it, but I know how to google it.
-- 🔍 I might not be an expert in everything, but I know how to google it.
 - ⚡ Fact that there isn't any fun around here and that makes it fun
 <!--
 **shubhambhatia2103/shubhambhatia2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
